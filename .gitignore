@@ -1,0 +1,10 @@
+.tox
+.project
+.pydevproject
+.idea
+*.pyc
+*~
+build
+*.egg-info
+*.egg
+dist
