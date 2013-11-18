@@ -1,7 +1,7 @@
 s3-link
 =======
 
-Generate urls for pre-signed S3 object urls with expiration.
+Generate pre-signed urls for S3 objects with expiration.
 
 
 Installation:
