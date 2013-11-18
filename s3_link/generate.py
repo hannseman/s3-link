@@ -33,7 +33,7 @@ def main():
     parser.add_option("-t", "--expires",
                       dest="expires",
                       default="24",
-                      help="Expire time in hours")
+                      help="Expire time in hours (defaults to 24)")
 
     parser.add_option("-c", "--content-type",
                       dest="content_type",
